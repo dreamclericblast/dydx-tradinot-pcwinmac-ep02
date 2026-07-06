@@ -1,4 +1,4 @@
-# 
+# Elite dydx trading bot scripts for Mac OS | Premium dydx trading bot scripts for PC Windows. Featuring mean reversion strategy and momentum analysis — optimized for maximum performance.
 
 
 
